@@ -24,7 +24,7 @@
 <br>
 
 <hr>
-<h4 align="center"><i>Visit the webpage by clicking <a href="https://khalilelamraoui.github.io/">👉HERE👈</a></i></h4>
+<h4 align="center"><i>Visit the webpage by clicking <a href="https://khalilelamraoui.github.io/ResponsivePortfolio">👉HERE👈</a></i></h4>
 <hr>
 
 ⚡ <b><i>Let's connect</i></b>
